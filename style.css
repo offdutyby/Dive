@@ -12,9 +12,12 @@ body {
 }
 
 #background__logo {
-  max-width: 40vw;
-  max-height: 40vh;
+  /* max-width: 40vw;
+  max-height: 40vh; */
+  max-width: 100%;
   position: fixed;
-  left: 30vw;
-  top: 30vh;   
+  left: 0;
+  top: 25%;
+  /* left: 30vw;
+  top: 30vh;    */
 }
